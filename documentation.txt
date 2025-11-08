@@ -1,0 +1,1 @@
+https://github.com/tuya/tuya-home-android-sdk-sample-kotlin
